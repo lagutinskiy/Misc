@@ -8,4 +8,4 @@ def fib(n):
         total = fib(n-2) + fib(n-1)
     return total
 
-print(fib(25))
+print(fib(30))
